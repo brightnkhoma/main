@@ -275,7 +275,7 @@ function About() {
               playsInline
               className=" w-full h-full object-cover"
             >
-              <source src={"https://res.cloudinary.com/datlh0njj/video/upload/v1787132317/q4szz8m7synkduhmiaao.mp4"} type="video/mp4" />
+              <source src={"https://firebasestorage.googleapis.com/v0/b/theanchoragegroup.firebasestorage.app/o/tag%2FFacebook.mp4?alt=media&token=a6e5a786-5355-4ccb-aceb-6fa5e0c3b942"} type="video/mp4" />
             </video>
 
       <div className="flex flex-col justify-center bg-white px-8 py-16 md:px-16 md:py-0">
@@ -377,8 +377,9 @@ export function AflasafeFeature() {
               loop
               playsInline
               className="absolute inset-0 w-full h-full object-cover"
-            >
-              <source src={"https://res.cloudinary.com/datlh0njj/video/upload/v1786803897/znhmiz8ginb36fzt1io9.mov"} type="video/mp4" />
+            > 
+            
+              <source src={"https://firebasestorage.googleapis.com/v0/b/theanchoragegroup.firebasestorage.app/o/tag%2FAflasafe%20_With%20Tittles%202.mp4?alt=media&token=ca0a62b0-9964-4f26-bf2c-717a0e8c1ab6"} type="video/mp4" />
             </video>
       <div className="absolute inset-0 bg-gradient-to-r from-[#050B10]/95 via-[#050B10]/60 to-transparent" />
 
